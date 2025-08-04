@@ -1,5 +1,13 @@
 # 📂 DB Browser for SQLite
 
+
+
+
+<img width="1398" height="929" alt="image" src="https://github.com/user-attachments/assets/d6d7319d-a12d-4a6f-ad31-99a88dec526d" />
+
+
+
+
 `.db` file viewer, editor, and inserter  
 `.db` dosyalarını görüntüleme, düzenleme ve veri ekleme aracı  
 Просмотр, редактирование и добавление данных в `.db` файлы  
